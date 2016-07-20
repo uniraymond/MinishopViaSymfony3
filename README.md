@@ -1,4 +1,2 @@
-symfony_3_minishop
-==================
-
-A Symfony project created on July 20, 2016, 10:12 pm.
+# MinishopViaSymfony3
+Minishop - Symfony3 and Angularjs practise.
